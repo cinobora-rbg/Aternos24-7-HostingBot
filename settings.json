@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "KronSMP.aternos.me",
-    "port": 28940,
+    "port":28940,
     "version": "",
     "try-creative": false
   },
