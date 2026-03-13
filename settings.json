@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KronSMP.aternos.me:",
+    "ip": "KronSMP.aternos.me",
     "port": 28940,
     "version": "",
     "try-creative": false
